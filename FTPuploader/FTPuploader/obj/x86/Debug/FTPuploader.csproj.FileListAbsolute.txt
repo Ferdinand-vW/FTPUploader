@@ -1,0 +1,8 @@
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\bin\Debug\FTPuploader.exe
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\bin\Debug\FTPuploader.pdb
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\FTPuploader.Properties.Resources.resources
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\FTPuploader.exe
+c:\users\ferdinand\documents\visual studio 2010\Projects\FTPuploader\FTPuploader\obj\x86\Debug\FTPuploader.pdb
